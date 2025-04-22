@@ -1,4 +1,5 @@
 # Ejercicio 1: Suma de elementos en una lista de listas
+pass
 def suma_matriz(matriz):
     """
     Recibe una lista de listas y devuelve la suma de todos sus elementos.
@@ -13,6 +14,7 @@ def suma_matriz(matriz):
 
 
 # Ejercicio 2: Encontrar el valor máximo en una matriz
+pass
 def maximo_matriz(matriz):
     """
     Recibe una lista de listas y devuelve el valor máximo.
@@ -27,6 +29,7 @@ def maximo_matriz(matriz):
 
 
 # Ejercicio 3: Verificar si un número es primo
+pass
 def es_primo(n):
     """
     Recibe un número y devuelve True si es primo, False en caso contrario.
@@ -42,6 +45,7 @@ def es_primo(n):
 
 
 # Ejercicio 4: Transponer una matriz
+pass
 def transponer_matriz(matriz):
     """
     Recibe una lista de listas y devuelve la matriz transpuesta.
@@ -62,6 +66,7 @@ def transponer_matriz(matriz):
 
 
 # Ejercicio 5: Filtrar números pares
+pass
 def filtrar_pares(lista):
     """
     Recibe una lista de números y devuelve una nueva lista con solo los números pares.
@@ -74,16 +79,18 @@ def filtrar_pares(lista):
     return pares
 
 # Ejercicio 6: Contar la cantidad de palabras en una frase
+pass
 def contar_palabras(frase):
    """
     Recibe una frase y devuelve el número de palabras.
     Incluir el código aquí para contar las palabras en la frase.
     """
-    palabras = frase.split()
-    return len(palabras)
+   palabras = frase.split()
+   return len(palabras)
 
 
 # Ejercicio 7: Crear una tabla de multiplicar
+pass
 def tabla_multiplicar(n):
     """
     Recibe un número y devuelve una lista con su tabla de multiplicar del 1 al 10.
@@ -97,6 +104,7 @@ def tabla_multiplicar(n):
 
 
 # Ejercicio 8: Contar números negativos en una lista
+pass
 def contar_negativos(lista):
     """
     Recibe una lista de números y devuelve la cantidad de números negativos.
@@ -109,6 +117,7 @@ def contar_negativos(lista):
     return negativos
 
 # Ejercicio 9: Determinar si una lista está ordenada
+pass
 def lista_ordenada(lista):
     """
     Recibe una lista de números y devuelve True si está ordenada de menor a mayor.
@@ -121,6 +130,7 @@ def lista_ordenada(lista):
 
 
 # Ejercicio 10: Cifrar un texto con el cifrado César
+pass
 def cifrado_cesar(texto, desplazamiento):
     """
     Recibe un texto y un desplazamiento, y devuelve el texto cifrado usando el cifrado César.
